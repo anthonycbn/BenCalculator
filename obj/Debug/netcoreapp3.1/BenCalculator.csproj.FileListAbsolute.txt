@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.exe
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.deps.json
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.runtimeconfig.json
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.runtimeconfig.dev.json
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.dll
+C:\Users\user\source\repos\Calculator\bin\Debug\netcoreapp3.1\BenCalculator.pdb
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.AssemblyInfo.cs
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.dll
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.pdb
+C:\Users\user\source\repos\Calculator\obj\Debug\netcoreapp3.1\BenCalculator.genruntimeconfig.cache
